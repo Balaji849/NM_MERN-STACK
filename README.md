@@ -1,7 +1,4 @@
 
-Screenshot & interaction with project :https://docs.google.com/document/d/1yBPq9Cmr1dKt284E-i6hF73N_9Ph8qlB/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true
-
-
 Project Documentation:https://docs.google.com/document/d/1yWzJ63Rzl6Qn_m3tZruRPNgSzLmIwUGm/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true
 
 
@@ -125,6 +122,8 @@ npm start
 Here's a quick demo showcasing the main features and functionality of the Flight Booking App. This video walks through the user experience, highlighting both user and admin functionalities.
 
 [![Watch the output video]]
+
+
 [![screenshot]](https://docs.google.com/document/d/1yWzJ63Rzl6Qn_m3tZruRPNgSzLmIwUGm/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true)
 ---
 
