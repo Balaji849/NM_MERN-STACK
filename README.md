@@ -141,7 +141,7 @@ For ease, you may add a `.env.example` file to specify these variable placeholde
 
 Here’s a quick demo showcasing the main features and functionality of the Flight Booking App, including user and admin capabilities.
 
-- [**Demo Video**](https://your-video-link)
+- [**Demo Video**]((https://drive.google.com/drive/folders/1rYn0OuLSrxWN3DIr_geeC964oDH-uirl?usp=sharing))
 
 ## Documentation
 
@@ -167,17 +167,4 @@ If you wish to contribute to this project, please follow these steps:
 
 Please make sure to update tests as appropriate and follow code style guidelines.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact:
-
-- **Your Name**: [yourname@example.com](mailto:yourname@example.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-Replace the placeholders with the actual URLs to finalize your documentation. Let me know if you’d like further customizations!
