@@ -141,13 +141,13 @@ For ease, you may add a `.env.example` file to specify these variable placeholde
 
 Here’s a quick demo showcasing the main features and functionality of the Flight Booking App, including user and admin capabilities.
 
-- [**Demo Video**]((https://drive.google.com/drive/folders/1rYn0OuLSrxWN3DIr_geeC964oDH-uirl?usp=sharing))
+- [**Demo Video**](https://drive.google.com/drive/folders/1rYn0OuLSrxWN3DIr_geeC964oDH-uirl?usp=sharing)
 
 ## Documentation
 
 Detailed project documentation can be accessed here:
 
-- [**Documentation**](Documentation:https://docs.google.com/document/d/1yWzJ63Rzl6Qn_m3tZruRPNgSzLmIwUGm/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true)
+- [**Documentation**](https://docs.google.com/document/d/1yWzJ63Rzl6Qn_m3tZruRPNgSzLmIwUGm/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true)
 
 ## Screenshots
 
