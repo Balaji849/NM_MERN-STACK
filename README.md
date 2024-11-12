@@ -117,6 +117,7 @@ npm start
 
 Here's a quick demo showcasing the main features and functionality of the Flight Booking App. This video walks through the user experience, highlighting both user and admin functionalities.
 
-![Watch the output video]
+[![Watch the output video]]
+---
 
 This README.md file provides a clear structure and guides users through the installation, configuration, and usage of the application. You can further customize the sections based on any additional functionality or details specific to your project.
