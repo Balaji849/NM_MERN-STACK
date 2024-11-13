@@ -153,7 +153,7 @@ Detailed project documentation can be accessed here:
 
 For a visual overview, you can refer to this document containing project screenshots:
 
-- [**Screenshots Document**](https://docs.google.com/document/d/your-screenshot-doc-link)
+- [**Screenshots Document**](https://docs.google.com/document/d/1yBPq9Cmr1dKt284E-i6hF73N_9Ph8qlB/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true)
 
 ## Contributing
 
