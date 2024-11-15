@@ -145,9 +145,9 @@ Here’s a quick demo showcasing the main features and functionality of the Flig
 
 ## Documentation
 
-Detailed project documentation can be accessed here:
+Detailed project report can be accessed here:
 
-- [**Documentation**](https://docs.google.com/document/d/1yWzJ63Rzl6Qn_m3tZruRPNgSzLmIwUGm/edit?usp=drive_link&ouid=103547621227644222568&rtpof=true&sd=true)
+- [**project report**](https://github.com/Balaji849/NM_MERN-STACK/blob/master/Flight%20booking%20app%20report.pdf)
 
 ## Screenshots
 
